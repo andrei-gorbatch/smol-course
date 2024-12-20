@@ -20,4 +20,5 @@ dependencies = [
     "torchvision>=0.19.1",
     "torchaudio>=2.4.1",
     "tiktoken>=0.8.0",
+    "matplotlib>=3.10.0",
 ]
