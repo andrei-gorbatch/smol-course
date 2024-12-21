@@ -16,4 +16,9 @@ dependencies = [
     "bitsandbytes>=0.45.0",
     "loralib>=0.1.2",
     "peft>=0.14.0",
+    "torch>=2.4.1",
+    "torchvision>=0.19.1",
+    "torchaudio>=2.4.1",
+    "tiktoken>=0.8.0",
+    "matplotlib>=3.10.0",
 ]
