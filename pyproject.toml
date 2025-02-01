@@ -21,4 +21,8 @@ dependencies = [
     "torchaudio>=2.4.1",
     "tiktoken>=0.8.0",
     "matplotlib>=3.10.0",
+    "fastapi[standard]>=0.110.3",
+    "uvicorn>=0.34.0",
+    "python-multipart>=0.0.20",
+    "isort>=6.0.0",
 ]
