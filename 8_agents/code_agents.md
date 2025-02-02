@@ -64,5 +64,6 @@ smolagents provides a lightweight framework for building code agents, with a cor
 ## Further Reading
 
 - [smolagents Blog](https://huggingface.co/blog/smolagents) - Introduction to smolagents and code interactions
+- [smolagents: Guided Tour](https://github.com/huggingface/smolagents/blob/main/docs/source/en/guided_tour.md) - Guide with examples
 - [smolagents: Building Good Agents](https://huggingface.co/docs/smolagents/tutorials/building_good_agents) - Best practices for reliable agents
 - [Building Effective Agents - Anthropic](https://www.anthropic.com/research/building-effective-agents) - Agent design principles
